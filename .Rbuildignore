@@ -1,0 +1,13 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+inst/testdata
+inst/localTests
+^README\.Rmd$
+^README-.*\.png$
+^\.travis\.yml$
+^appveyor\.yml$
+^cran-comments\.md$
+^data-raw$
+^CRAN-RELEASE$
+^\.github
+^CRAN-SUBMISSION$
